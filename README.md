@@ -2,7 +2,7 @@
 
 In this repo we explore the properties of the TSP with stochastic costs. Below we present the Flow Chart of the proposed algorithm.
 
-![Flow Chart](FlowChart.jpg "Flow Chart")
+![Flow Chart](docs/FlowChart.jpg "Flow Chart")
 
 To install the dependencies:
 
